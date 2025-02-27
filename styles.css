@@ -84,7 +84,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#MJ .container {
+#MJtxt .container {
     display: flex;
     align-items: center;
     justify-content: center;
