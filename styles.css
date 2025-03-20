@@ -3,6 +3,7 @@
 
 :root {
     --laranja-claro: #FF862A;
+    --TamanhoAtualFonte: 2.5
 }
 
 body {
@@ -96,7 +97,7 @@ section {
 
 h2 {
     font-family: "Comic-Sans", serif;
-    font-size: 2.5em;
+    font-size: var(--TamanhoAtualFonte)rem;
     font-style: normal;
     color: #000000;
 }
