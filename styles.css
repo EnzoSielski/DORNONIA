@@ -97,7 +97,7 @@ section {
 
 h2 {
     font-family: "Comic-Sans", serif;
-    font-size: var(--TamanhoAtualFonte)rem;
+    font-size: var(--TamanhoAtualFonte);
     font-style: normal;
     color: #000000;
 }
