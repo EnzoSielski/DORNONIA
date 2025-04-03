@@ -6,7 +6,7 @@
 }
 
 body {
-    font-size: 50rem;
+    font-size: 2rem;
     font-family: 'Montserrat';
 }
 
@@ -95,8 +95,8 @@ section {
 
 
 h2 {
-    font-family: 'Comic-Sans', serif;
-    font-size: 2.5rem;
+    font-family: "Sans", serif;
+    font-size: 5rem;
     font-style: normal;
     color: #000000;
 }
