@@ -5,14 +5,14 @@ document.addEventListener("DOMContentLoaded", function() {
     let TamanhoAtualFonte = 1;
 
     aumentaFonteBotao.addEventListener("click", function() {   
-        TamanhoAtualFonte += 0.1;
+        TamanhoAtualFonte += 0.5;
         document.style.body.fontsize = "$(TamanhoAtualFonte)rem";
         document.style.h2.fontsize = "$(TamanhoAtualFonte)rem";
 
     });
 
     diminuiFonteBotao.addEventListener("click", function() {   
-        TamanhoAtualFonte -= 0.1;
+        TamanhoAtualFonte -= 0.5;
         document.style.body.fontsize = "$(TamanhoAtualFonte)rem";
         document.style.h2.fontsize = "$(TamanhoAtualFonte)rem";
     });
